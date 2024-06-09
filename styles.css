@@ -288,7 +288,7 @@ input:focus, textarea:focus {
     text-align: center;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
     .container {
         margin-top: 75px;
     }
